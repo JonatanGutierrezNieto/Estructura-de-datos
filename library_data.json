@@ -95,6 +95,12 @@
       "name": "goggle",
       "email": "goggle@example.com",
       "borrowed": []
+    },
+    {
+      "id": "U009",
+      "name": "Barajas",
+      "email": "barajas@example.com",
+      "borrowed": []
     }
   ]
 }
