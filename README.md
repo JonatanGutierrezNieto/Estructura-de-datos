@@ -10,4 +10,4 @@ Incluye una interfaz gráfica desarrollada con **PyQt5** para registrar libros, 
 - Python 3.8 o superior
 - `pip` actualizado
 - pip install PyQt5
-- python .\prueba.py
+- python .\main.py
